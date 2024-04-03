@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.0.2",
+    "@zjy365/sealos-desktop-sdk": "^0.1.16",
     "ai": "^3.0.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
